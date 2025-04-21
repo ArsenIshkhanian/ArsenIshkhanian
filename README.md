@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Arsen:I am an Information Systems student with solid Python skills who<br>has a passion for solving complex technical challenges. My<br>curiosity leads me to explore new technologies that broaden my<br>knowledge in areas such as web development, database<br>management, and networking. I enjoy creating innovative<br>examples while improving my skill sets to keep abreast of<br>current technology trends.
+My name is Arsen. I am an Information Systems student with solid Python skills who<br>has a passion for solving complex technical challenges. My<br>curiosity leads me to explore new technologies that broaden my<br>knowledge in areas such as web development, database<br>management, and networking. I enjoy creating innovative<br>examples while improving my skill sets to keep abreast of<br>current technology trends.
 
 
 ## 🌐 Socials:
